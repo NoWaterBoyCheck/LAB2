@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimeTable>
+	<Person>
+		<Name>
+			<FirstName>Anton</FirstName>
+			<MiddleName>Oleksandrovych</MiddleName>
+			<LastName>Svystunov</LastName>
+		</Name>
+		<Faculty>CSC</Faculty>
+		<Chair>TPP</Chair>
+		<Classes>
+			<Class>
+				<Subject>OOP</Subject>
+				<Date>
+					<Day>15.12.2023</Day>
+					<Time>14:05</Time>
+				</Date>
+				<Audience>603</Audience>
+				<Students>
+					<Student>
+						<FirstName>Dariy</FirstName>
+						<MiddleName>Sergiyovych</MiddleName>
+						<LastName>Petryshyn</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Pavlo</FirstName>
+						<MiddleName>Anndriyovych</MiddleName>
+						<LastName>Shpagin</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Andriy</FirstName>
+						<MiddleName>Sergiyovych</MiddleName>
+						<LastName>Staryk</LastName>
+						<Group>K-27</Group>
+					</Student>
+				</Students>
+			</Class>
+
+			<Class>
+				<Subject>OOP</Subject>
+				<Date>
+					<Day>17.12.2023</Day>
+					<Time>10:35</Time>
+				</Date>
+				<Audience>603</Audience>
+				<Students>
+					<Student>
+						<FirstName>Dariy</FirstName>
+						<MiddleName>Sergiyovych</MiddleName>
+						<LastName>Petryshyn</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Pavlo</FirstName>
+						<MiddleName>Anndriyovych</MiddleName>
+						<LastName>Shpagin</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Andriy</FirstName>
+						<MiddleName>Sergiyovych</MiddleName>
+						<LastName>Staryk</LastName>
+						<Group>K-27</Group>
+					</Student>
+				</Students>
+			</Class>
+		</Classes>
+	</Person>
+
+	<Person>
+		<Name>
+			<FirstName>Nataliia</FirstName>
+			<MiddleName>Genadiivna</MiddleName>
+			<LastName>Rusina</LastName>
+		</Name>
+		<Faculty>CSC</Faculty>
+		<Chair>TPP</Chair>
+		<Classes>
+			<Class>
+				<Subject>OOP</Subject>
+				<Date>
+					<Day>15.12.2023</Day>
+					<Time>12:20</Time>
+				</Date>
+				<Audience>611</Audience>
+				<Students>
+					<Student>
+						<FirstName>Andriy</FirstName>
+						<MiddleName>Yuriyovych</MiddleName>
+						<LastName>Gordievskiy</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Oleksandr</FirstName>
+						<MiddleName>Vasylyovych</MiddleName>
+						<LastName>kulyk</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Artem</FirstName>
+						<MiddleName>Bohdanovych</MiddleName>
+						<LastName>Golosniy</LastName>
+						<Group>K-27</Group>
+					</Student>
+					
+					<Student>
+						<FirstName>Oleksandr</FirstName>
+						<MiddleName>Igorovych</MiddleName>
+						<LastName>Chubey</LastName>
+						<Group>K-27</Group>
+					</Student>
+				</Students>
+			</Class>
+		</Classes>
+	</Person>
+
+	<Person>
+		<Name>
+			<FirstName>Lyudmyla</FirstName>
+			<MiddleName>Leonidivna</MiddleName>
+			<LastName>Omelchuk</LastName>
+		</Name>
+		<Faculty>CSC</Faculty>
+		<Chair>TPP</Chair>
+		<Classes>
+			<Class>
+				<Subject>OOP</Subject>
+				<Date>
+					<Day>17.12.2023</Day>
+					<Time>12:20</Time>
+				</Date>
+				<Audience>603</Audience>
+				<Students>
+					<Student>
+						<FirstName>Diana</FirstName>
+						<MiddleName>Anatoliivna</MiddleName>
+						<LastName>Kgmelyova</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Oleksandra</FirstName>
+						<MiddleName>Anatoliivna</MiddleName>
+						<LastName>Voloshyna</LastName>
+						<Group>K-27</Group>
+					</Student>
+
+					<Student>
+						<FirstName>Oleksandr</FirstName>
+						<MiddleName>Andriyovych</MiddleName>
+						<LastName>Vyalcev</LastName>
+						<Group>K-27</Group>
+					</Student>
+				</Students>
+			</Class>
+		</Classes>
+	</Person>
+</TimeTable>
+
